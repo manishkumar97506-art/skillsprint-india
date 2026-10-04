@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <defs>
+    <linearGradient id="gradient-s" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1d4ed8" />
+      <stop offset="50%" stop-color="#7c3aed" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="12" fill="#0f172a" />
+  <!-- Stylized Lightning / Sprint S -->
+  <path d="M28 8L16 24H25L20 40L34 22H25L28 8Z" fill="url(#gradient-s)" stroke="#22d3ee" stroke-width="1.5" stroke-linejoin="round" />
+</svg>
